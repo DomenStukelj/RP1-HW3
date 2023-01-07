@@ -24,7 +24,7 @@ int main()
     
     int misses = 0;
     int hits = 0;
-    printf("%s", word);
+    //printf("%s\n", word);
 
     printf("Igra vislic. Besede so naključno izbrane iz seznama 444 najbolj uporabljanih slovenskih besed daljših od 3 črk.\n");
     printf("Prosim, uporabljajte le VELIKE ČRKE za vnos ugiba.\n\n");
